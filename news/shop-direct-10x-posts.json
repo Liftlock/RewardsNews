@@ -60,7 +60,7 @@
         "author": "Rodrigo Sharma",
         "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-01.jpg",
         "date": "Aug 20",
-        "category": "Admin"
+        "category": "Founders"
     },
     {
         "id": 7,
@@ -69,7 +69,7 @@
         "author": "Rodrigo Sharma",
         "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-01.jpg",
         "date": "Aug 20",
-        "category": "General"
+        "category": "Builders"
     },
     {
         "id": 8,
@@ -78,7 +78,7 @@
         "author": "Rodrigo Sharma",
         "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-01.jpg",
         "date": "Aug 20",
-        "category": "Improvements"
+        "category": "Affiliates"
     },
     {
         "id": 9,
@@ -87,6 +87,6 @@
         "author": "Rodrigo Sharma",
         "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-01.jpg",
         "date": "Aug 20",
-        "category": "Legal"
+        "category": "Development"
     }
 ]
