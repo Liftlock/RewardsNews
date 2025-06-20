@@ -55,7 +55,7 @@
     },
     {
         "id": 6,
-        "title": "Sample post in the Admin category",
+        "title": "Sample post in the Founders category",
         "content": "When people upgrade from one version to another, it should be painfully clear when something will break. It should be possible to upgrade to a version that lists deprecations, remove what's deprecated, then upgrade to the version where the deprecations become removals.",
         "author": "Rodrigo Sharma",
         "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-01.jpg",
@@ -64,7 +64,7 @@
     },
     {
         "id": 7,
-        "title": "Sample post in the General category",
+        "title": "Sample post in the Builders category",
         "content": "When people upgrade from one version to another, it should be painfully clear when something will break. It should be possible to upgrade to a version that lists deprecations, remove what's deprecated, then upgrade to the version where the deprecations become removals.",
         "author": "Rodrigo Sharma",
         "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-01.jpg",
@@ -73,7 +73,7 @@
     },
     {
         "id": 8,
-        "title": "Sample post in the Improvements category",
+        "title": "Sample post in the Affiliates category",
         "content": "When people upgrade from one version to another, it should be painfully clear when something will break. It should be possible to upgrade to a version that lists deprecations, remove what's deprecated, then upgrade to the version where the deprecations become removals.",
         "author": "Rodrigo Sharma",
         "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-01.jpg",
